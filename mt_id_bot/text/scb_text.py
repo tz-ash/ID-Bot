@@ -19,7 +19,7 @@ SCB_INFO = "𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑰𝒏𝒇𝒐🔻"
 # <<Bot Update From User>>
 SCB_UPDATE = "𝑩𝒐𝒕 𝑼𝒑𝒅𝒂𝒕𝒆𝒔📢"
 # <<Code From <<LICENSE>>
-SCB_CODE = "♻️𝑹𝒆𝒑𝒐"
+SCB_CODE = "𝑺𝒖𝒑𝒑𝒐𝒓𝒕"
 # <<Full Closed>>
 SCB_CLOSE = "𝑪𝒍𝒐𝒔𝒆❌️"
 # <<Home>><<Main Page>>
