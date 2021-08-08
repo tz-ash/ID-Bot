@@ -33,15 +33,15 @@ ABOUT_MSG = """
 
 🧰 𝑭𝒓𝒂𝒎𝒆𝑾𝒐𝒓𝒌 : <a href='https://github.com/pyrogram/pyrogram'>𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎</a> 
 
-👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='t.me/mrk_yt'>@𝑷𝑹0𝑭𝑬𝑺𝑺0𝑹_99</a> 
+👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='t.me/kid_of_telegram'>𝑲𝒊𝒅</a> 
 
-👨‍💻 𝑪𝒐 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='https://t.me/MR_JINN_OF_TG'>@𝑴𝑹_𝑱𝑰𝑵𝑵_𝑶𝑭_𝑻𝑮</a> 
+👨‍💻 𝑲𝒊𝒅 𝑯𝒖𝒃 : <a href='https://t.me/kidhub'>𝑲𝒊𝒅 𝑯𝒖𝒃</a> 
 
-👥 𝑮𝒓𝒐𝒖𝒑 :   <a href='t.me/Mo_tech_Group'>𝑴𝑻 𝑪𝒉𝒂𝒕</a> 
+👥 𝑮𝒓𝒐𝒖𝒑 :   <a href='t.me/tzkid'>𝑲𝒊𝒅 𝑪𝒉𝒂𝒕</a>
 
-📢 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href='t.me/Mo_Tech_YT'>𝑩𝒐𝑻 𝑼𝒑𝒅𝒂𝒕𝒆𝒔</a> 
+📢 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href='t.me/kidhub'>𝑲𝒊𝒅 𝑼𝒑𝒅𝒂𝒕𝒆𝒔</a> 
 
-❣️ 𝒀𝒐𝒖𝑻𝒖𝒃𝒆 : <a href='https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ'>𝑺𝒖𝒃𝒔𝒄𝒓𝒊𝒃𝒆 𝑵𝒐𝒘</a> 
+❣️ 𝑴𝒂𝒈𝒊𝒄𝒂𝒍 : <a href='t.me/magiclmush'>𝑴𝒂𝒈𝒊𝒄𝒂𝒍 𝑴𝒖𝒔𝒉</a> 
 """
 
 # Id Only Button
