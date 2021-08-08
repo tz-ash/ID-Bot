@@ -13,8 +13,8 @@ from mt_id_bot.text.scb_text import SCB_INFO, SCB_BACK, SCB_ABOUT, SCB_CLOSE, SC
 # Button Controler 
 START_BUTTON = InlineKeyboardMarkup(
     [[
-       InlineKeyboardButton(f"{SCB_UPDATE}", url=f"t.me/mo_tech_yt"),
-       InlineKeyboardButton(f"{SCB_CODE}", url=f"https://github.com/PR0FESS0R-99/ID-Bot")
+       InlineKeyboardButton(f"{SCB_UPDATE}", url=f"t.me/kidbots"),
+       InlineKeyboardButton(f"{SCB_CODE}", url=f"t.me/tzkid")
    ],[
        InlineKeyboardButton(f"{SCB_HELP}", callback_data="help")
     ]]
